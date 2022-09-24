@@ -1,0 +1,33 @@
+{
+  "sneakers": [
+    {
+      "id": 1,
+      "src": "https://i.ibb.co/X2CCnf3/image-product-1.jpg",
+      "alt": "first"
+    },
+    {
+      "id": 2,
+      "src": "https://i.ibb.co/2s8cVxT/image-product-2.jpg",
+      "alt": "second"
+    },
+    {
+      "id": 3,
+      "src": "https://i.ibb.co/5LDHk5L/image-product-3.jpg",
+      "alt": "third"
+    },
+    {
+      "id": 4,
+      "src": "https://i.ibb.co/HY6JbFc/image-product-4.jpg",
+      "alt": "fourth"
+    }
+  ],
+  "description": [
+    {
+      "title": "Fall Limited Edtition Sneakers",
+      "subtitle": "Sneaker Company",
+      "body": "These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer",
+      "cost": 250.00,
+      "discount": 50
+    }
+  ]
+}
